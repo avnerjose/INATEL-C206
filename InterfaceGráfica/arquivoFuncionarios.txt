@@ -1,0 +1,10 @@
+Funcionario
+Avner José
+20
+126.522.156-12
+Chefe
+Funcionario
+Rita Elizabeth
+20
+111.222.333-41
+Chefe
